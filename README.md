@@ -1,5 +1,5 @@
 # Face-generation
-This is my solution to the human face generation project by udacity - https://github.com/udacity/deep-learning 
+This is my solution to the human face generation project by udacity - https://github.com/udacity/deep-learning <br>
 In this project I use GANS to generate images of human faces and numbers from the MNIST dataset.
 
 ## Resources
